@@ -1,0 +1,57 @@
+{
+  "pageCount": 12,
+  "pages": [
+    {
+      "src": "./images/page-1-856da0c8.png"
+    },
+    {
+      "src": "./images/page-2-a1ff974d.png"
+    },
+    {
+      "src": "./images/page-3-f30f1a7b.png"
+    },
+    {
+      "src": "./images/page-4-5960af06.png"
+    },
+    {
+      "src": "./images/page-5-b4b20d4a.png"
+    },
+    {
+      "src": "./images/page-6-0de15e93.png"
+    },
+    {
+      "src": "./images/page-7-41ee4013.png"
+    },
+    {
+      "src": "./images/page-8-1584e020.png"
+    },
+    {
+      "src": "./images/page-9-f22e475e.png"
+    },
+    {
+      "src": "./images/page-10-022153e4.png"
+    },
+    {
+      "src": "./images/page-11-f0755f28.png"
+    },
+    {
+      "src": "./images/page-12-c7fe30ff.png"
+    }
+  ],
+  "generatedAt": "2025-11-18T16:24:53.162Z",
+  "source": "Und_3_1_Habilidades de escucha activa.pdf",
+  "integrity": {
+    "images/page-1-856da0c8.png": "856da0c8",
+    "images/page-2-a1ff974d.png": "a1ff974d",
+    "images/page-3-f30f1a7b.png": "f30f1a7b",
+    "images/page-4-5960af06.png": "5960af06",
+    "images/page-5-b4b20d4a.png": "b4b20d4a",
+    "images/page-6-0de15e93.png": "0de15e93",
+    "images/page-7-41ee4013.png": "41ee4013",
+    "images/page-8-1584e020.png": "1584e020",
+    "images/page-9-f22e475e.png": "f22e475e",
+    "images/page-10-022153e4.png": "022153e4",
+    "images/page-11-f0755f28.png": "f0755f28",
+    "images/page-12-c7fe30ff.png": "c7fe30ff"
+  }
+}
