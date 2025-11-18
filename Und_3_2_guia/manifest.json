@@ -1,0 +1,53 @@
+{
+  "pageCount": 11,
+  "pages": [
+    {
+      "src": "./images/page-1-58c7fc6a.png"
+    },
+    {
+      "src": "./images/page-2-71768e00.png"
+    },
+    {
+      "src": "./images/page-3-536d4c7e.png"
+    },
+    {
+      "src": "./images/page-4-e5f11da4.png"
+    },
+    {
+      "src": "./images/page-5-089340d7.png"
+    },
+    {
+      "src": "./images/page-6-f475f08a.png"
+    },
+    {
+      "src": "./images/page-7-a8a8a899.png"
+    },
+    {
+      "src": "./images/page-8-b830d346.png"
+    },
+    {
+      "src": "./images/page-9-6a08efb4.png"
+    },
+    {
+      "src": "./images/page-10-c6fdfa22.png"
+    },
+    {
+      "src": "./images/page-11-ffa63e87.png"
+    }
+  ],
+  "generatedAt": "2025-11-18T16:25:37.543Z",
+  "source": "Und_3_2_Comunicación asertiva y resolución de conflictos .pdf",
+  "integrity": {
+    "images/page-1-58c7fc6a.png": "58c7fc6a",
+    "images/page-2-71768e00.png": "71768e00",
+    "images/page-3-536d4c7e.png": "536d4c7e",
+    "images/page-4-e5f11da4.png": "e5f11da4",
+    "images/page-5-089340d7.png": "089340d7",
+    "images/page-6-f475f08a.png": "f475f08a",
+    "images/page-7-a8a8a899.png": "a8a8a899",
+    "images/page-8-b830d346.png": "b830d346",
+    "images/page-9-6a08efb4.png": "6a08efb4",
+    "images/page-10-c6fdfa22.png": "c6fdfa22",
+    "images/page-11-ffa63e87.png": "ffa63e87"
+  }
+}

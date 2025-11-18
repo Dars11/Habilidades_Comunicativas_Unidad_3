@@ -1,0 +1,57 @@
+{
+  "pageCount": 12,
+  "pages": [
+    {
+      "src": "./images/page-1-990ed775.png"
+    },
+    {
+      "src": "./images/page-2-07b824bd.png"
+    },
+    {
+      "src": "./images/page-3-4dbfa278.png"
+    },
+    {
+      "src": "./images/page-4-65c8acaa.png"
+    },
+    {
+      "src": "./images/page-5-78b7ba98.png"
+    },
+    {
+      "src": "./images/page-6-b9c8d4fa.png"
+    },
+    {
+      "src": "./images/page-7-1789fc7f.png"
+    },
+    {
+      "src": "./images/page-8-858e3571.png"
+    },
+    {
+      "src": "./images/page-9-473bb4bd.png"
+    },
+    {
+      "src": "./images/page-10-03eae6ea.png"
+    },
+    {
+      "src": "./images/page-11-b177eb3e.png"
+    },
+    {
+      "src": "./images/page-12-8e53c059.png"
+    }
+  ],
+  "generatedAt": "2025-11-18T16:26:10.351Z",
+  "source": "Und_3_3_Trabajo Colaborativo en equipos.pdf",
+  "integrity": {
+    "images/page-1-990ed775.png": "990ed775",
+    "images/page-2-07b824bd.png": "07b824bd",
+    "images/page-3-4dbfa278.png": "4dbfa278",
+    "images/page-4-65c8acaa.png": "65c8acaa",
+    "images/page-5-78b7ba98.png": "78b7ba98",
+    "images/page-6-b9c8d4fa.png": "b9c8d4fa",
+    "images/page-7-1789fc7f.png": "1789fc7f",
+    "images/page-8-858e3571.png": "858e3571",
+    "images/page-9-473bb4bd.png": "473bb4bd",
+    "images/page-10-03eae6ea.png": "03eae6ea",
+    "images/page-11-b177eb3e.png": "b177eb3e",
+    "images/page-12-8e53c059.png": "8e53c059"
+  }
+}
